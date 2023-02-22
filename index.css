@@ -77,8 +77,13 @@ hr {
 
 .introduction {
   line-height: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .tags {
   font-size: 0.8rem;
+  display: flex;
+  justify-content: space-between;
 }
