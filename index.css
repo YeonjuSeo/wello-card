@@ -26,3 +26,16 @@ hr {
 .job {
   font-size: 0.9rem;
 }
+
+.profile-img-container {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 70%;
+  overflow: hidden;
+}
+
+.profile-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
