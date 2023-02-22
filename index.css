@@ -9,3 +9,11 @@ body {
   color: white;
   font-weight: 300;
 }
+
+.card-address {
+  font-size: 0.8rem;
+}
+
+hr {
+  border: solid 1px white;
+}
