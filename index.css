@@ -49,3 +49,15 @@ hr {
   color: black;
   font-weight: 700;
 }
+
+.introduction-container hr {
+  width: 15px;
+}
+
+.introduction {
+  line-height: 1.5rem;
+}
+
+.tags {
+  font-size: 0.8rem;
+}
