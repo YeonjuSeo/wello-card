@@ -13,7 +13,6 @@ body {
   background-color: teal;
   color: white;
   font-weight: 300;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -36,6 +35,12 @@ hr {
 
 .job {
   font-size: 0.9rem;
+}
+
+.introduction-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .profile-img-container {
