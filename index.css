@@ -39,3 +39,13 @@ hr {
   height: 100%;
   object-fit: cover;
 }
+
+.contact {
+  width: 6.5rem;
+  height: 6.5rem;
+  background-color: #ffe300;
+  border-radius: 70%;
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+}
