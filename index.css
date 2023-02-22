@@ -64,6 +64,11 @@ hr {
   text-decoration: none;
   color: black;
   font-weight: 700;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .introduction-container hr {
