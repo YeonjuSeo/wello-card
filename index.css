@@ -46,6 +46,11 @@ hr {
   align-items: center;
 }
 
+.profile-container {
+  /* 4회차 - 4 */
+  margin: 2rem 0 2rem 0;
+}
+
 .profile-img-container {
   width: 15rem;
   height: 15rem;
@@ -74,6 +79,10 @@ hr {
   justify-content: center;
 }
 
+.contact i {
+  margin-bottom: 0.5rem;
+}
+
 .introduction-container hr {
   width: 15px;
 }
@@ -89,4 +98,5 @@ hr {
   font-size: 0.8rem;
   display: flex;
   justify-content: space-between;
+  margin: 1rem 0 3rem 0;
 }
